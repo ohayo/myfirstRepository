@@ -1,2 +1,2 @@
 git is a distributed version control system.
-gir is a free software.
+gir is a free software distributed under the GPL.
